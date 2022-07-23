@@ -62,7 +62,7 @@ export default {
     console.log(cheerio.html());
     console.log(getWorkAuthor(cheerio));
     return {
-      description: "sdjaksdjalksdjalskdja",
+      description: "!!!!sdjaksdjalksdjalskdja!!!!",
       title: "asjkdasdlasjdla",
       author: getWorkAuthor(cheerio),
       keywords: "fanfiction, transformative works, otw, fair use, archive",
